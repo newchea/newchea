@@ -22,7 +22,7 @@ Contributions are welcome! If you want to help improve this project, here’s ho
 - Thanks for stopping by — your support means a lot! 🙏
 # 🎓 Smart Internet — My Online Course
 
-Smart Internet is my personal learning journey focused on using the internet smarter — not just for browsing, but for building, creating, and making an impact.
+Smart Internet is my personal learning online courses focused on using the internet smarter — not just for browsing, but for building, creating, and making an impact.
 
 ### 🧩 What the Course Covers:
 
