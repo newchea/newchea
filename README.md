@@ -20,3 +20,6 @@ Contributions are welcome! If you want to help improve this project, here’s ho
 - ✍️ Submit pull requests with fixes or enhancements.  
 - 💬 Provide feedback or share ideas to help me improve.
 - Thanks for stopping by — your support means a lot! 🙏
+# 🎓 Smart Internet — My Online Course
+
+Smart Internet is my personal learning journey focused on using the internet smarter — not just for browsing, but for building, creating, and making an impact.
