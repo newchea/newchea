@@ -42,3 +42,14 @@ How to create and publish a basic website
 The importance of digital presence and portfolio building
 
 Tools like GitHub, Google Forms, and more for online projects
+
+## 🚀 My Goals with Smart Internet:
+
+Build a complete personal website
+
+Share knowledge and tools with others
+
+Use what I’ve learned to help people (especially beginners) get started online 
+### 📬 Want to Join or Learn More?
+
+Feel free to email me at macintoshchea9@gmail.com or message me to learn more about the course or how to join!
