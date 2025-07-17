@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: macintoshchea9@gmail.com ...
 
 - I'm refining the layout and testing it on multiple devices. Future updates will include animations, interactive elements, and form integration
+### How to Contribute
+Contributions are welcome! If you want to help improve this project, here’s how you can get involved:
+- 🐛 Report bugs or suggest features by opening an issue.  
+- ✍️ Submit pull requests with fixes or enhancements.  
+- 💬 Provide feedback or share ideas to help me improve.
+- Thanks for stopping by — your support means a lot! 🙏
