@@ -35,3 +35,10 @@ Smart Internet is my personal learning journey focused on using the internet sma
 🛠️ Using online tools for productivity and creativity
 
 🔐 Staying safe and smart on the internet
+# 🧠 What I’ve Learned So Far:
+
+How to create and publish a basic website
+
+The importance of digital presence and portfolio building
+
+Tools like GitHub, Google Forms, and more for online projects
