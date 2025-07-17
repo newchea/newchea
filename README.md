@@ -1,4 +1,4 @@
-# About me. i love coding
+# About me.Hi 👋🏽 I'm Ruby Jack. I'm passionate about learning, creating, and sharing projects that make a difference. I'm currently exploring web development, design, and coding through hands-on projects. This repository is part of my journey—feel free to check it out, leave feedback, or contribute!
 ###
 <!--
 **newchea/newchea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
