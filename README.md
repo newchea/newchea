@@ -2,7 +2,9 @@
 ### I'm in the process of building my personal website to showcase who I am, what I do, and what I’m learning. The goal is to create a space where I can share my projects, write about my journey, and connect with others.
 <!-- Feel free to contribute or suggest improvements -->
 **newchea/newchea** A space where ideas grow, creativity flows, and dreams take shape.✨ 
-- i love coding
+- - Building my personal website using GitHub Pages]
+- Adding a blog section to share updates and tutorials
+- Designing a clean and mobile-friendly layout
 Here are some ideas to get you started:
 - 🔭 I’m currently working on my website ...
 - 🌱 I’m currently learning coding with GitHub...
