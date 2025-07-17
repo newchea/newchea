@@ -53,3 +53,6 @@ Use what I’ve learned to help people (especially beginners) get started online
 ### 📬 Want to Join or Learn More?
 
 Feel free to email me at macintoshchea9@gmail.com or message me to learn more about the course or how to join!
+# This project reflects not just my technical skills, but my curiosity and drive to create tools that solve real-life problems. I'm not just building apps—I'm building experiences.
+## With SMART INTERNET, I aim to empower everyday users with practical digital skills—because being smart online today is as important as being safe in real life.
+Learning to code has taught me more than just syntax—it’s taught me problem solving, resilience, and how to think in systems. Every bug is a chance to learn.
