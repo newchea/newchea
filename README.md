@@ -1,4 +1,4 @@
-<h2 # About me.Hi 👋🏽 I'm Macintosh Chea. I'm passionate about learning, creating, and sharing projects that make a difference. I'bm currently exploring web development, design, and coding through hands-on projects. This repository is part of my journey—feel free to check it out, leave feedback, or contribute!
+<h2 id# About me.Hi 👋🏽 I'm Macintosh Chea. I'm passionate about learning, creating, and sharing projects that make a difference. I'bm currently exploring web development, design, and coding through hands-on projects. This repository is part of my journey—feel free to check it out, leave feedback, or contribute!
 ### I'm in the process of building my personal website to showcase who I am, what I do, and what I’m learning. The goal is to create a space where I can share my projects, write about my journey, and connect with others.
 <!-- Feel free to contribute or suggest improvements -->
 **newchea/newchea** A space where ideas grow, creativity flows, and dreams take shape.✨ 
