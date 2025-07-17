@@ -23,3 +23,15 @@ Contributions are welcome! If you want to help improve this project, here’s ho
 # 🎓 Smart Internet — My Online Course
 
 Smart Internet is my personal learning journey focused on using the internet smarter — not just for browsing, but for building, creating, and making an impact.
+
+### 🧩 What the Course Covers:
+
+💡 Understanding the modern web (sites, tools, and platforms)
+
+🔧 How to build a personal brand online
+
+🌐 Website basics — from design to publishing
+
+🛠️ Using online tools for productivity and creativity
+
+🔐 Staying safe and smart on the internet
