@@ -1,14 +1,38 @@
 ## Hi there 
-**newchea/newchea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**newchea/newchea** #!/usr/bin/env python3
+import sys
+import time
 
-Here are some ideas to get you started:
+import jwt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Get PEM file path
+if len(sys.argv) > 1:
+    pem = sys.argv[1]
+else:
+    pem = input("Enter path of private PEM file: ")
+
+# Get the Client ID
+if len(sys.argv) > 2:
+    client_id = sys.argv[2]
+else:
+    client_id = input("Enter your Client ID: ")
+
+# Open PEM
+with open(pem, 'rb') as pem_file:
+    signing_key = pem_file.read()
+
+payload = {
+    # Issued at time
+    'iat': int(time.time()),
+    # JWT expiration time (10 minutes maximum)
+    'exp': int(time.time()) + 600,
+    
+    # GitHub App's client ID
+    'iss': client_id
+
+}
+
+# Create JWT
+encoded_jwt = jwt.encode(payload, signing_key, algorithm='RS256')
+
+print(f"JWT: {encoded_jwt}")
