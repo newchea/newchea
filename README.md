@@ -1,1 +1,1 @@
- # gh copilot explain and gh copilot suggest.
+ ## gh copilot explain and gh copilot suggest.
